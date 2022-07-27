@@ -33,11 +33,21 @@ Ejemplos:
 
 ## 2. Resumen del proyecto
 
-En este proyecto construirás una versión _web_ del juego _Memory Match_, en la
+En este proyecto construirás una versión _web_ del juego _Memory Match_ con un conjunto (set) de datos, en la
 que una jugadora pueda jugar sola, en el navegador.
+
+Esta vez te proponemos dos series de datos con diferentes temáticas para que explores y decidas con qué temática te interesa trabajar. Hemos elegido específicamente estos sets de datos porque creemos que se adecúan bien a esta etapa de tu aprendizaje.
+
+Una vez que definas tu área de interés, buscar entender quién es tu usuario para construir la interfaz que le ayude a interactuar, jugar y divertirse.
+
+Estos son datos que te proponemos:
+
+* **Pokemon**: En este set encontrarás una lista con 9 Pokémon junto con su respectiva imagen.
+* **Frontend Web Dev**: En este set encontrarás una lista con 9 tecnologias y su logo.
 
 El objetivo principal de este proyecto es que aprendas a diseñar y construir una
 interfaz web basada en data e interacción con la usuaria.
+
 
 ## 3. Objetivos de aprendizaje
 
